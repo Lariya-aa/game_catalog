@@ -1,0 +1,12 @@
+.DS_Store
+._*
+__pycache__/
+*.pyc
+*.pkg
+*.vpk
+work.bin
+*.rif
+*.dat
+*.db
+*.sqlite*
+
